@@ -1,0 +1,27 @@
+.welcome{
+	height:500px;
+    background-color:lightgreen;
+}
+
+.fork {
+	height:200px;
+}
+
+.decline-adventure{
+	display:None;
+}
+
+.adventure-start {	
+	display:None;
+    background-image:url("https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/zsgykprd8kozvh2nq1fx.gif");
+    height:500px;
+    color:white;
+}
+
+.went-left {
+	display:None;
+}
+
+.went-right {
+	display:None;
+}
